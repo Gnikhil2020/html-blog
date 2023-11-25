@@ -1,0 +1,154 @@
+.logo{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.logo h2{
+    color: darkblue;
+    font-style: italic;
+}
+.s-link{
+    margin-top: 60px;
+}
+.s-link .fa{
+    font-size: 16px;
+    letter-spacing: 10px;
+    margin-right: 30px;
+}
+.form-in{
+    margin-top: 50px;
+}
+.form-in input{
+    border-radius: 20px;
+    height: 50px;
+    box-shadow: 0px 0px 5px 1px gray;
+}
+.form-in button{
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin-left: 10px;
+}
+#menu li a{
+    font-size: 14px;
+    margin-right: 25px;
+}
+.menu-border{
+    border-bottom: 1px solid #ccc;
+}
+.site-title h2{
+    font-size: 18px;
+    border-bottom: 2px solid #ccc;
+    display: table;
+}
+.Blog-list h4{
+    font-size: 16px;
+    font-weight: bold;
+}
+.Blog-list{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.Blog-list p{
+    font-size: 12px;
+}
+.Blog-list h6{
+    color: #ccc;
+}
+.Blog-list img{
+    height: 110px;
+}
+.post-list h3{
+    color: #ccc;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+.post-list p{
+    font-size: 14px;
+    word-spacing: 2px;
+    margin-top: 25px;
+}
+.post-list{
+    margin-top: 40px;
+
+}
+.bg-color{
+    padding: 100px 0px;
+    background: lightgray;
+
+}
+.from-inner input{
+    border-radius: 20px;
+    height: 50px;
+}
+.from-inner {
+    margin-top: 50px;
+}
+.from-inner button{
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin-left: 10px;
+    border: 1px solid black;
+}
+.from-inner button:hover{
+    background-color: rgb(39, 68, 199);
+    color: #fff;
+    border: 1px solid rgb(39, 68, 199);
+  
+}
+.title p{
+    font-size: 12px;
+    margin-top: 20px;
+    
+}
+.single-post h1{
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.single-post .col-lg-8 p{
+    margin-bottom: 50px;
+    font-size: 14px;
+
+}
+.Comments-list img{
+   width: 80px;
+   height: 80px;
+   margin-top: 30px;
+
+}
+.Comments-list p{
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Comments-list h4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Comments-list button{
+    margin-top: 10px;
+    font-size: 14px;
+}
+.Comments-list h6{
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.Comments-list h4{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.form-comment input{
+    border-radius: 15px;
+    height: 40px;
+}
+
+.form-comment textarea{
+    border-radius: 15px;
+}
